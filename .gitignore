@@ -1,0 +1,7 @@
+deploy.bat
+deploy.sh
+node_modules
+.env
+*.log
+.vscode/
+
